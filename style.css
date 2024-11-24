@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(#e73a3a, #e73a3a);
+}
+.Title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: white;
+    text-align:center;
+    margin-top: 13px;
+}
+#pdfInput{
+    background-color: #e55757;
+    border: 2px;
+    border-radius: 5px;
+    border-color: black;
+    box-shadow: inset;
+}
+#pdfViewer{
+    margin-top: 40px;
+    margin-left: 400px;
+    margin-block: 10px;
+}
